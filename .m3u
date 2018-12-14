@@ -1,0 +1,325 @@
+#EXTM3U
+#EXTINF:0,24 ДОК
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://e29a6003d845f55d49f183668f36e7c094574aa4
+#EXTINF:0,2x2
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://939494d7786cdfb9de14b008cc60f7db3cf456af
+#EXTINF:0,5 канал
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://dc49683574ee15d5366f8d6c294871fd4f2e81be
+#EXTINF:0,A1
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://04759422173d6c03e20256e87062e57b3e27e745
+#EXTINF:0,A2
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://b63e13b36071a24ab0d4e86f598be79312e88993
+#EXTINF:0,Ani
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://5886aa245789ea547f1bf674ced6cc817a1f6524
+#EXTINF:0,Da Vinci
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://1d953a2f54eaba235a1a2657954e1c505821c66f
+#EXTINF:0,National Geographic
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://0a6cd2be3eae34defb7931da298861832b0ffc19
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://f767d7df12b0f2a50bab4ae4b0696370f1b7c0b3
+#EXTINF:0,Paramount Comedy
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://38bdd22cb518b55c44a69fc533c572c2bef328e3
+#EXTINF:0,Russia Today
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://d1c11790bd4bba4c2d7fa193e6ab3e59528f8b37
+#EXTINF:0,TiJi
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://3fa5ec3b30a443b8d11e657582dd070922146975
+#EXTINF:0,Travel+Adventure
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://36bc0c7a6eed1614bcff43c8c0cea09ffbe7fc34
+#EXTINF:0,TV XXI
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://95c718fe3b352bd05a8152460f1361e02f281b2a
+#EXTINF:0,TV1000 Русское кино
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://4fd497aea0db5a4122c0975120eab9791dea686f
+#EXTINF:0,Viasat Explore
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://c4ef95f3787197f5d65e4a4a66dd561a2929b277
+#EXTINF:0,Авто Плюс
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://9975a9cea7fa72b7312329073027c9ff0a3f84b6
+#EXTINF:0,Бобёр
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://a3f5206dd2c7e03d4b6bc190ca4d21019b1df642
+#EXTINF:0,Вопросы и ответы
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://d1a4bac52246e67d8b6a0f68b0dff813dc53b889
+#EXTINF:0,Время
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://303a8b5af72e625dc9c3f1e4b4674a6d248f27b2
+#EXTINF:0,Детский мир
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://7149906eee92c2f247a02d3911b6e03e8b82e660
+#EXTINF:0,Дом кино
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://5e12a626f129fe49093230268f243d2081f63b08
+#EXTINF:0,Домашний
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://3989526d15d4c42c3509befbc9d7737ff7aca7ff
+#EXTINF:0,Драйв
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://3bb878593000979776c4c00646ead915965fa48d
+#EXTINF:0,Еврокино
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://562a3431006ee867df1cc5d0dfb6c259c4df52fa
+#EXTINF:0,Живая планета
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://2ef45760154b2cad7da19b0113fe3419ee39c26e
+#EXTINF:0,Звезда
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://fbca2e807973f51ee7408987fc3e6b14f1d28d83
+#EXTINF:0,Иллюзион +
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://7670a6b5f4a90d7c20fa0e169b813555e4962d8c
+#EXTINF:0,История
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://624945c8ca2ae4fbacfa597d2b301e58027958e4
+#EXTINF:0,Калейдоскоп ТВ
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://82188a3007bcbca6683341aed9b7fa67b44c0db5
+#EXTINF:0,Канал Disney
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://ac614fb2113dcb58f6c8b18971598790301e2aa3
+#EXTINF:0,Кино ТВ
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://29a970ce167f85210e9832e4f410957bc223ef7d
+#EXTINF:0,Кинокомедия
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://a394060c08b1c645dbd33ef9fffda9e153d08f14
+#EXTINF:0,Киномикс
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://46e5ca8221a770c15e3c2988f8061efaaa8687f5
+#EXTINF:0,Киносерия
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://eb5fed70f8d42ab2d84237e980b1eed7113cebf0
+#EXTINF:0,КХЛ
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://3488c23ab226b787b8dc0bfdbac461111074aaeb
+#EXTINF:0,Матч Премьер
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://9487f14a6d83b7b10be9a1a551f0a4cd5dc449a5
+#EXTINF:0,Матч! Арена
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://060e964a8baa2754f8fe128953c61f3b4e6055e8
+#EXTINF:0,Матч! Боец
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://f2ea4567c7942f935a97b8546323bb01300493fb
+#EXTINF:0,Матч! Игра
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://dab15a9b171b70ce3c7327e6cabd370744e8f659
+#EXTINF:0,Матч! Наш Спорт
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://9d98dd0c9a23120d63a87c14a1e2604e36dc2966
+#EXTINF:0,МАТЧ! Футбол 1
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://2b32ce3c60a7aee3e00de8f823b7cbcface6b076
+#EXTINF:0,МАТЧ! Футбол 2
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://13e8e701b3c338be2b2c2c465d477cb3ee6efd4f
+#EXTINF:0,МАТЧ! Футбол 3
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://148017ca2738d19931395b1a55d5b97ace0068b7
+#EXTINF:0,Мир Сериала
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://814933c017a4f4324f0520b677e6d598b82060a8
+#EXTINF:0,Моя Планета
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://c1a207710a8aad773d49b728ed686547d622ee74
+#EXTINF:0,Мужское Кино
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://ca87b34caadc14777a4889e93fc302baa4f4051f
+#EXTINF:0,МУЛЬТ
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://82ee68a013e9df158ea505559312682245e3498c
+#EXTINF:0,Наука
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://c4b9bda2f950e36fe6d859ea5b2c747978a22893
+#EXTINF:0,Наше Новое Кино
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://7747c633487dbada1f209b7b77f81e8043a98911
+#EXTINF:0,Ностальгия
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://cf765e70949735b23f78200e4686293b84ee7674
+#EXTINF:0,НСТ
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://79cf8f3c7564124afd356b2dc1f5166c2c34d4ac
+#EXTINF:0,НТВ
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://74ef52853d9fd994e54c7c261baa846bbe352e39
+#EXTINF:0,Охота и рыбалка
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://af9c1581c32467741a8356adb3ab2fc81e0c7f3c
+#EXTINF:0,Парк развлечений
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://a6065eddf53673b212118db5b3a9048c0c9c67ef
+#EXTINF:0,Первый
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://38f091550e757e0c5bc3a59ed73b6796d6445d72
+#EXTINF:0,Психология 21
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://f7357cf8b121ccfc14bf1583a0cf11cad9126a58
+#EXTINF:0,Пятница
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://27ab5a56930d24e28ec280af08134d91bbce8750
+#EXTINF:0,РЕН ТВ
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://83072f7594056f388d8fe918edc57c18cf397147
+#EXTINF:0,Ретро ТВ
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://8b465eba37b37092d98d5764871949c28ec8997d
+#EXTINF:0,Родное кино
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://0b8df6ebcf6689b9a88a4652cc088fc3aca80085
+#EXTINF:0,Россия 1
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://c66d9bc2a4f33d19936a8215925fd4bb09f8e6ae
+#EXTINF:0,Россия 24
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://2e82809ef8a20169cc19de05e6090cc9270e5cf9
+#EXTINF:0,РТВ - Любимое кино
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://d5610a695cc591e98da1252128ec8af83713debb
+#EXTINF:0,Русский бестселлер
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://f0c9f617ad4baa26465e13f9207e28651d30763d
+#EXTINF:0,Русский детектив
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://647421ccf40b69974179ea9e0975572426b767c0
+#EXTINF:0,Русский Иллюзион
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://1245dbb65792fe72df0da42a855d633b47dabfb6
+#EXTINF:0,Русский роман
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://57b71b970ee603b10f7fca959051e4417ad0d398
+#EXTINF:0,Русский Экстрим
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://25732bc3900d18b4905d88e4a2024e6510958743
+#EXTINF:0,Санкт-Петербург
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://a0820396df218cf70d1a6076e5a8a86b7413e1a8
+#EXTINF:0,СТС
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://cd6d24b336986d288ce4cbe0ca06ea50adffd8a4
+#EXTINF:0,СТС Love
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://dc8678257a667520fd20290e026dfe99e2639974
+#EXTINF:0,ТВ Центр
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://fed4ce0c1cdbbd00c8354c2471bb5b0bccf7c9fb
+#EXTINF:0,ТВ3
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://48b4455e9ef12304f8ab14887c86017d95f32d93
+#EXTINF:0,Техно 24
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://f3e00073776b10a3c4fe236150fd878e37fa31a6
+#EXTINF:0,ТНТ
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://372ee46e0d43ab280fa4c420c9900680195aea91
+#EXTINF:0,ТНТ4
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://6ddf64203db81333401e8078e0279f194ba6c2cc
+#EXTINF:0,Точка ТВ
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://6b892716ad3d581c9b8739e95dcc06b15144a825
+#EXTINF:0,Феникс+ Кино
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://d9b4e1de25cb73cde39df51a409b5d500034c108
+#EXTINF:0,Че
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://05af7d6bfbf3359f48e7a9c94923d681f7c2948b
+#EXTINF:0,Ю
+#EXTVLCOPT:deinterlace=-1
+#EXTVLCOPT:deinterlace-mode=yadif
+acestream://886d0c2d894eabcaabbdaef9008dbcc0db20275d
